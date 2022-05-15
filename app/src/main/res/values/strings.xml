@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">trago</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
